@@ -1,4 +1,4 @@
-baseurl = "https://diegoabt.github.io/"
+baseurl = "diegoabt.github.io/"
 title = "Diego Baptista Theuerkauf"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"

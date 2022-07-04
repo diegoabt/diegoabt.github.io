@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Portfolios on Diego Baptista Theuerkauf</title>
-    <link>https://https://diegoabt.github.io/portfolio/</link>
+    <link>diegoabt.github.io/portfolio/</link>
     <description>Recent content in Portfolios on Diego Baptista Theuerkauf</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 05 Nov 2016 19:41:01 +0530</lastBuildDate>
     
-	<atom:link href="https://https://diegoabt.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="diegoabt.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Network extraction by routing optimization</title>
-      <link>https://https://diegoabt.github.io/portfolio/work1/</link>
+      <link>diegoabt.github.io/portfolio/work1/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
-      <guid>https://https://diegoabt.github.io/portfolio/work1/</guid>
+      <guid>diegoabt.github.io/portfolio/work1/</guid>
       <description>&lt;p&gt;&lt;em&gt;&lt;strong&gt;Diego Baptista&lt;/strong&gt;, Daniela Leite, Enrico Facca, Mario Putti &amp;amp; Caterina De Bacco&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;We introduce a method to extract network topologies from dynamical equations related to routing optimization under various parameters’ settings.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Principled network extraction from images</title>
-      <link>https://https://diegoabt.github.io/portfolio/work2/</link>
+      <link>diegoabt.github.io/portfolio/work2/</link>
       <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       
-      <guid>https://https://diegoabt.github.io/portfolio/work2/</guid>
+      <guid>diegoabt.github.io/portfolio/work2/</guid>
       <description>&lt;p&gt;&lt;em&gt;&lt;strong&gt;Diego Baptista&lt;/strong&gt; &amp;amp; Caterina De Bacco&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;We present a principled model to extract network topologies from images that is scalable and efficient.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Convergence Properties of Optimal Transport-Based Temporal Networks</title>
-      <link>https://https://diegoabt.github.io/portfolio/work3/</link>
+      <link>diegoabt.github.io/portfolio/work3/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
-      <guid>https://https://diegoabt.github.io/portfolio/work3/</guid>
+      <guid>diegoabt.github.io/portfolio/work3/</guid>
       <description>&lt;p&gt;&lt;em&gt;&lt;strong&gt;Diego Baptista&lt;/strong&gt;  &amp;amp; Caterina De Bacco&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;We study the behavior of various network properties on a number of network sequences evolving towards optimal design.&lt;/p&gt;</description>
     </item>
