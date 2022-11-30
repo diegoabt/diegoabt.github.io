@@ -24,7 +24,8 @@ navbar-links:
   Publications: "publications"
     #- Beautiful Jekyll: "https://beautifuljekyll.com"
     #- Learn markdown: "https://www.markdowntutorial.com/"
-  CV: "cv"
+  #CV: "cv"
+  #Art: "art"
   #Author's home: "https://deanattali.com"
 
 ################

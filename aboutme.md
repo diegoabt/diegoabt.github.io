@@ -10,10 +10,10 @@ I am a PhD at the International Max Planck Research School for Intelligent Syste
 
 My research focuses on applying Optimal Transport methods to solve problems on networks. Some of my research interests include:
 - Optimal Transport theory
-- Network
-- Other things
+- Network Science
+- Machine Learning
 
---
+___
 
 # News
 - **May, 2022:** A new preprint is online: [Immiscible Color Flows in Optimal Transport Networks for Image Classification.](https://aleable.github.io/publication/996_lonardi2022immiscible)
