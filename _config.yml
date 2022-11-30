@@ -21,9 +21,10 @@ author: Diego Baptista Theuerkauf
 
 navbar-links:
   About Me: "aboutme"
-  Resources: "publications"
+  Publications: "publications"
     #- Beautiful Jekyll: "https://beautifuljekyll.com"
     #- Learn markdown: "https://www.markdowntutorial.com/"
+  CV: "cv"
   #Author's home: "https://deanattali.com"
 
 ################
