@@ -36,7 +36,7 @@ navbar-links:
 avatar: "/assets/img/about.jpg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-round-avatar: true
+round-avatar: false #true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
@@ -51,10 +51,10 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "someone@example.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+  #rss: true  # remove this line if you don't want to show an RSS link at the bottom
   #facebook: deanattali
-  github: https://github.com/diegoabt
-  twitter: https://twitter.com/DABT93
+  github: diegoabt
+  twitter: DABT93
   #patreon: DeanAttali
   #youtube: c/daattali
 #  medium: yourname
