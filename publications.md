@@ -29,5 +29,17 @@ Diego Baptista & Caterina De Bacco
 
 _Complex Networks and Their Applications X, 2021_
 
+- [Principled network extraction from images](https://royalsocietypublishing.org/doi/10.1098/rsos.210025)
+
+Diego Baptista & Caterina De Bacco
+
+_Royal Society Open Science, 2021_
+
+- [Network extraction by routing optimization](https://www.nature.com/articles/s41598-020-77064-4)
+
+Diego Baptista, Daniela Leite, Enrico Facca, Mario Putti & Caterina De Bacco
+
+_Scientific Reports, 2020_
+
 
 # Other posts
