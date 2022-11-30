@@ -31,7 +31,7 @@ subtitle: ...
 	- _Journal of the Royal Society Open Science, 2021_
 	- code: [Img2net](https://github.com/diegoabt/Img2net)
 - [Network extraction by routing optimization](https://www.nature.com/articles/s41598-020-77064-4)
-	- **Authors:** <ins>Diego Baptista</ins>, Daniela Leite, Enrico Facca, Mario Putti & Caterina De Bacco
+	- **Authors:** <ins>Diego Baptista</ins>+, Daniela Leite+, Enrico Facca, Mario Putti & Caterina De Bacco
 	- _Journal of Scientific Reports, 2020_
 	- code: [Nextrout](https://github.com/Danielaleite/Nextrout)
 

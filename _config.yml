@@ -52,7 +52,7 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "someone@example.com"
-  #rss: true  # remove this line if you don't want to show an RSS link at the bottom
+  rss: true  # remove this line if you don't want to show an RSS link at the bottom
   #facebook: deanattali
   github: diegoabt
   twitter: DABT93
@@ -60,7 +60,7 @@ social-network-links:
   #youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: /diego-baptista-theuerkauf/
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -74,14 +74,14 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
-#  google-scholar: your google scholar
+  google-scholar: https://scholar.google.com/citations?user=aJ8qD30AAAAJ&hl=en
 #  discord: invite/invite_code or users/userid 
 #  kaggle: yourname
 #  hackerrank: yourname
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+rss-description: Post list.
 
 ###########################
 # --- General options --- #
