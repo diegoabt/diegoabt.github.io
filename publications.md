@@ -18,7 +18,7 @@ subtitle: ...
 	- code: [ORC-Nextrout](https://github.com/Danielaleite/ORC-Nextrout)
 
 - [Latent Network Models to Account for Noisy, Multiply-Reported Social Network Data](https://arxiv.org/pdf/2112.11396.pdf) 
-	- **Authors:** Caterina De Bacco, Martina Contisciani, Jonathan Cardoso-Silva, Hadiseh Safdari, <ins>Diego Baptista</ins>, Tracy Sweet, Jean-Gabriel Young, Jeremy Koster, Cody T Ross, Richard McElreath, Daniel Redhead & Eleanor A Power
+	- **Authors:** Caterina De Bacco, Martina Contisciani, Jonathan Cardoso-Silva, Hadiseh Safdari, Gabriela Borges, <ins>Diego Baptista</ins>, Tracy Sweet, Jean-Gabriel Young, Jeremy Koster, Cody T Ross, Richard McElreath, Daniel Redhead & Eleanor A Power
 	- _Journal of the Royal Statistical Society: Series A, 2022 (Accepted)_
 	- code: [ViMuRe](https://github.com/latentnetworks/vimure)
 
