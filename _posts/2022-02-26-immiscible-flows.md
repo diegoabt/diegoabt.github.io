@@ -2,6 +2,7 @@
 layout: post
 title: Immiscible Color Flows in Optimal Transport Networks for Image Classification
 subtitle: We build an image classifier using multicommodity OT principles.
+thumbnail-img: /assets/img/img_immiscible.png
 gh-repo: aleable/MODI
 gh-badge: [star, fork, follow]
 tags: [paper]
