@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Community detection in networks by dynamical optimal transport formulation
-subtitle: Each post also has a subtitle
-gh-repo: https://github.com/Danielaleite/ORC-Nextrout
+subtitle: We use OT-based tools to find hidden communities on networks.
+gh-repo: Danielaleite/ORC-Nextrout
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [paper]
 comments: true
 ---
 
