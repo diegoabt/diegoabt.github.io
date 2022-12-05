@@ -2,6 +2,8 @@
 layout: post
 title: Convergence properties of optimal transport-based temporal networks
 subtitle: We create temporal networks when solving a dynamical OT problem and study their convergence properties.
+thumbnail-img: /assets/img/img_temporal.png
+share-img: /assets/img/img_temporal_bg.png
 #gh-repo: Danielaleite/ORC-Nextrout
 #gh-badge: [star, fork, follow]
 tags: [paper]
