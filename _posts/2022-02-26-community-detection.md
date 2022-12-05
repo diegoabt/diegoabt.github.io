@@ -2,6 +2,8 @@
 layout: post
 title: Community detection in networks by dynamical optimal transport formulation
 subtitle: We use OT-based tools to find hidden communities on networks.
+thumbnail-img: /assets/img/img_community.png
+share-img: /assets/img/img_community_bg.png
 gh-repo: Danielaleite/ORC-Nextrout
 gh-badge: [star, fork, follow]
 tags: [paper]
