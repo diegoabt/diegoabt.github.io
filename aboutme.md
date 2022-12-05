@@ -10,10 +10,12 @@ I am a PhD at the International Max Planck Research School for Intelligent Syste
 
 My research focuses on applying Optimal Transport methods to solve problems on networks. Some of my research interests include:
 - Optimal Transport theory and applications
-- Network-related problems, like community detection, link prediction, routing optimization.
+- Network-related problems, like community detection, link prediction, routing optimization
+- Hypergraph theory and applications
 - Probabilistic Machine Learning
 
 You can find a list of my scientific works on the tab **"Publications"**.   
+
 
 ___
 
