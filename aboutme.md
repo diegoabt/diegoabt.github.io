@@ -20,7 +20,7 @@ You can find a list of my scientific works on the tab **"Publications"**.
 ___
 
 # News
-- **January,2023:** Paper accepted in _Frontiers_! [Immiscible Color Flows in Optimal Transport Networks for Image Classification.](https://aleable.github.io/publication/996_lonardi2022immiscible)
+- **January, 2023:** Paper accepted in _Frontiers_! [Immiscible Color Flows in Optimal Transport Networks for Image Classification.](https://aleable.github.io/publication/996_lonardi2022immiscible)
 - **January, 2023:** Paper published! [Convergence properties of optimal transport-based temporal hypergraphs.](https://appliednetsci.springeropen.com/articles/10.1007/s41109-022-00529-0) 
 - **Octuber, 2022:** Paper published! [Community Detection in networks by Dynamical Optimal Transport Formulation.](https://www.nature.com/articles/s41598-022-20986-y)
 - **August, 2022:** Paper accepted (still unpublished) at _Journal of the Royal Statistical Society: Series A_: [Latent Network Models to Account for Noisy, Multiply-Reported Social Network Data](https://arxiv.org/pdf/2112.11396.pdf)
