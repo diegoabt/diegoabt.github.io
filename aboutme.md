@@ -22,7 +22,7 @@ My research focuses on structural inequalities in networks and developing method
 
 You can find a list of my scientific works on the tab **"Publications"**.   
 
-I'm deeply interested in finding creative ways to bridge the gap between complex research and public understanding. Whether through building **intuitive software tools**, engaging in **science communication**, or creating **illustrative digital art**, I aim to make scientific work more accessible and engaging to broader audiences.
+I'm deeply interested in finding creative ways to bridge the gap between complex research and public understanding. Whether through building intuitive software tools, engaging in science communication, or creating illustrative digital art, I aim to make scientific work more accessible and engaging to broader audiences.
 
 ___
 
