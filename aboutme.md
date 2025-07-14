@@ -4,8 +4,7 @@ title: About me
 subtitle: ...
 ---
 
-I am a Postdoc/Software Engineer at Fariba Karimi's group, _[Network Inequality and Fairness]
-(https://www.networkinequality.com)_, at TU Graz (Austria). I obtained my PhD at [Max Planck Institute for Intelligent Systems](https://is.mpg.de/)
+I am a Postdoc/Software Engineer at Fariba Karimi's group, _[Network Inequality and Fairness](https://www.networkinequality.com)_, at TU Graz (Austria). I obtained my PhD at [Max Planck Institute for Intelligent Systems](https://is.mpg.de/)
 in Tübingen (Germany), under the supervision of [Caterina De Bacco](https://www.cdebacco.com/), in the [Physics for Inference and Optimization group](https://pio.is.mpg.de/person/cdebacco). 
 I was part of the PhD at the International Max Planck Research School for Intelligent Systems ([IMPRS-IS](https://imprs.is.mpg.de/)), affiliated to the [Cyber Valley](https://cyber-valley.de/), and to the [University of Tübingen](https://uni-tuebingen.de/).
 
