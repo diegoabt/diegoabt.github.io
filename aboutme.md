@@ -4,14 +4,14 @@ title: About me
 subtitle: ...
 ---
 
-I am a **Postdoc/Software Engineer** at Fariba Karimi's group, _[Network Inequality and Fairness]
-(https://www.networkinequality.com)_, at TU Graz (Austria). I obtained my **PhD** at [Max Planck Institute for Intelligent Systems](https://is.mpg.de/)
+I am a Postdoc/Software Engineer at Fariba Karimi's group, _[Network Inequality and Fairness]
+(https://www.networkinequality.com)_, at TU Graz (Austria). I obtained my PhD at [Max Planck Institute for Intelligent Systems](https://is.mpg.de/)
 in Tübingen (Germany), under the supervision of [Caterina De Bacco](https://www.cdebacco.com/), in the [Physics for Inference and Optimization group](https://pio.is.mpg.de/person/cdebacco). 
 I was part of the PhD at the International Max Planck Research School for Intelligent Systems ([IMPRS-IS](https://imprs.is.mpg.de/)), affiliated to the [Cyber Valley](https://cyber-valley.de/), and to the [University of Tübingen](https://uni-tuebingen.de/).
 
 Previously, I was a Master's student at [IMPA](https://impa.br/) (_in brazilian portuguese: Instituto de Matemática Pura e Aplicada,_), in Rio de Janeiro (Brazil), working with [Roberto Imbuzeiro](https://scholar.google.com/citations?hl=es&user=E5NCCUEAAAAJ&view_op=list_works&sortby=pubdate) at the intersection of Graph Theory and Applied Probability. I have a degree in Mathematics, obtained at the ULA (_in spanish: Universidad de Los Andes_) in Mérida, Venezuela, where I am originally from.
 
-My research focuses on **structural inequalities in networks** and developing methods to **mitigate these imbalances**. Previously, I explored how **Optimal Transport** techniques can be applied to solve network-related problems.
+My research focuses on structural inequalities in networks and developing methods to mitigate these imbalances. Previously, I explored how Optimal Transport techniques can be applied to solve network-related problems.
 
 **Research Interests:**
 
@@ -22,7 +22,8 @@ My research focuses on **structural inequalities in networks** and developing me
 
 You can find a list of my scientific works on the tab **"Publications"**.   
 
-I'm deeply interested in finding creative ways to bridge the gap between **complex research** and **public understanding**. Whether through building **intuitive software tools**, engaging in **science communication**, or creating **illustrative digital art**, I aim to make scientific work more accessible and engaging to broader audiences.
+I'm deeply interested in finding creative ways to bridge the gap between complex research and public understanding. Whether through building **intuitive software tools**, engaging in **science communication**, or creating **illustrative digital art**, I aim to make scientific work more accessible and engaging to broader audiences.
+
 ___
 
 # News
